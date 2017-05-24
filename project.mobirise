@@ -60,7 +60,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
