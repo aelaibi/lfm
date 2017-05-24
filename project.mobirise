@@ -212,7 +212,7 @@
           "_anchor": "features1-f",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
@@ -235,7 +235,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/junior-2-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/junior-5-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
